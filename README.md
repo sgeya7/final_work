@@ -357,7 +357,7 @@ map
 
 [문제 15] 리모트 서버에서 Covid19 시각화
 =============
-제출자의 깃허브 저장소 주소: 
+제출자의 깃허브 저장소 주소: https://github.com/sgeya7/final_work
 제출자의 파이썬애니웨어 웹 사이트 주소: http://sgeya7.pythonanywhere.com/
 
 
